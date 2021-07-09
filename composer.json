@@ -1,0 +1,5 @@
+{
+    "require": {
+        "spryker/code-sniffer": "^0.16.1"
+    }
+}

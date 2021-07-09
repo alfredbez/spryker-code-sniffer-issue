@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ruleset name="CustomSprykerProject">
+    <file>Foo.php</file>
+    <rule ref="vendor/spryker/code-sniffer/Spryker/ruleset.xml">
+        <exclude name="Spryker.Commenting.DocBlock.ReturnVoidMissing"/>
+        <exclude name="Spryker.WhiteSpace.EmptyEnclosingLine.OpenBraceNewLine"/>
+    </rule>
+</ruleset>
