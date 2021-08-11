@@ -1,5 +1,5 @@
 {
     "require": {
-        "spryker/code-sniffer": "^0.16.1"
+        "spryker/code-sniffer": "dev-bugfix/empty-enclosing as 1.6.3"
     }
 }
